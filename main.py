@@ -1,6 +1,6 @@
 
 def HW_GIT_CONFLICT(name):
-    print("hello  brother " + name)
+    print("hello  dear " + name)
 
 
 HW_GIT_CONFLICT("vova")
